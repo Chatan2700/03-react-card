@@ -13,3 +13,5 @@ If you are developing a production application, we recommend using TypeScript an
 
 
 https://www.figma.com/design/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0-1&p=f&t=vMGCrdGzZ05bOZLw-0
+
+![image](https://github.com/user-attachments/assets/b2adfd44-df1d-433e-aa08-00ddd81a40b1)
